@@ -1,0 +1,16 @@
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.deps.json
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.dll
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.pdb
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Application.dll
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Application.pdb
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\bin\Release\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\obj\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.csprojAssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\obj\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\obj\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.AssemblyInfo.cs
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\obj\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\obj\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.csproj.CopyComplete
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\obj\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.dll
+C:\Users\Basis Tecnologia\source\repos\CleanArchitecture\CleanArchitecture.Infra.Ioc\obj\Release\netcoreapp3.1\CleanArchitecture.Infra.Ioc.pdb
